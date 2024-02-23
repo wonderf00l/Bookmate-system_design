@@ -5,7 +5,7 @@
 - Область присутствия - Россия
 - Аналитика по возрастным группам
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/fae6431d-28c4-4d53-b319-9c95b8a98a26/14519230-6633-405a-9509-cc790188152b/Untitled.png)
+![age_distribution](assets/age_dist.png)
 
 - Распределение пользователей по полу:
     - Женщины - 49.91%
