@@ -49,6 +49,4 @@
 
 ## Источники:
 
----
-
 1. [bookmate.ru Traffic Analytics, Ranking Stats & Tech Stack | Similarweb](https://www.similarweb.com/website/bookmate.ru/#demographics)
